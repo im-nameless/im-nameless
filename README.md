@@ -8,8 +8,9 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
   Architecture: Proficient in various design patterns and architectural paradigms, including the ability to design and build applications from the ground up.
   
 💡 I thrive on solving complex problems, learning new technologies, and collaborating on projects that make an impact.
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nameless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[![im-nameless's GitHub | Stats](https://stats.quira.sh/im-nameless/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=im-nameless)
 
 <!--
 **im-nameless/im-nameless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
