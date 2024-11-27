@@ -16,7 +16,7 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
 My skills:
 
 ![dotnet](https://img.shields.io/badge/.Net-3d1d6b?style=for-the-badge&logo=dotnet&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ad1328?style=for-the-badge&logo=angular&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/Typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=black)
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 
 <!--
 **im-nameless/im-nameless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
