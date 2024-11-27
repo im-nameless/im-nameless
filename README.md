@@ -14,7 +14,8 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nameless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 My skills:
-![dotnet](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+![dotnet](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!--
 **im-nameless/im-nameless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
