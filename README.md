@@ -15,7 +15,7 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
 
 My skills:
 
-![dotnet](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![dotnet](https://img.shields.io/badge/.Net-3d1d6b?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <!--
 **im-nameless/im-nameless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
