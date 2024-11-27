@@ -1,4 +1,5 @@
 👨‍💻 About Me
+
 I'm a Fullstack Software Developer with extensive experience in C#, Angular (versions 7, 13, 16), Typescript, Javascript and SQL. Since 2021, I’ve been crafting robust and scalable software solutions, working across diverse domains and challenges.
 
 🌟 Technical Expertise
