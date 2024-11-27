@@ -5,7 +5,9 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
 🌟 Technical Expertise
 
   Frontend: Angular across multiple versions, delivering dynamic and responsive user interfaces.
+
   Backend: .NET (versions 6, 7, 8), developing performant APIs and enterprise applications.
+
   Architecture: Proficient in various design patterns and architectural paradigms, including the ability to design and build applications from the ground up.
   
 💡 I thrive on solving complex problems, learning new technologies, and collaborating on projects that make an impact.
