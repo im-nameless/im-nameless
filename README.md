@@ -1,4 +1,15 @@
-## Hi there 👋
+👨‍💻 About Me
+I'm a Fullstack Software Developer with extensive experience in C#, Angular (versions 7, 13, 16), Typescript, Javascript and SQL. Since 2021, I’ve been crafting robust and scalable software solutions, working across diverse domains and challenges.
+
+🌟 Technical Expertise
+
+  Frontend: Angular across multiple versions, delivering dynamic and responsive user interfaces.
+  Backend: .NET (versions 6, 7, 8), developing performant APIs and enterprise applications.
+  Architecture: Proficient in various design patterns and architectural paradigms, including the ability to design and build applications from the ground up.
+  
+💡 I thrive on solving complex problems, learning new technologies, and collaborating on projects that make an impact.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nameless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![im-nameless's GitHub | Stats](https://stats.quira.sh/im-nameless/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=im-nameless)
 
 <!--
 **im-nameless/im-nameless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
