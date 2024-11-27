@@ -13,9 +13,9 @@ I'm a Fullstack Software Developer with extensive experience in C#, Angular (ver
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nameless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-My skills:
+📖 My skills:
 
-![dotnet](https://img.shields.io/badge/.Net-3d1d6b?style=for-the-badge&logo=dotnet&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ad1328?style=for-the-badge&logo=angular&logoColor=white)
+![dotnet](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ad1328?style=for-the-badge&logo=angular&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 
 <!--
